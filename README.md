@@ -29,7 +29,6 @@ En esta tabla se ve como tal lo que significaría cada dato que se envia que ser
 
 Aca se muestra la api en función corriendo desde colab
  
-[image](https://github.com/user-attachments/assets/702c4856-386b-4f8b-bc39-eeacaad7499f)
 
 Aca se ven los ejemplos que se realizaron en postman con dos ejemplos de cómo funciona la api
 
